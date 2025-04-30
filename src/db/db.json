@@ -1,0 +1,75 @@
+{
+  "soldiers": [
+    {
+      "id": "soldier-001",
+      "name": "солдат 1",
+      "age": 30,
+      "active": true,
+      "rank": "Капитан",
+      "enlistmentDate": "09/01/2022 09:00:00 AM",
+      "skills": [
+        "Стрельба",
+        "Тактика",
+        "Лидерство"
+      ]
+    },
+    {
+      "id": "0caa98a5-d3e2-489a-945a-22cb5fc6afc2",
+      "name": "Стандартный солдат",
+      "age": 25,
+      "active": true,
+      "rank": "Рядовой",
+      "enlistmentDate": "30.04.2025, 10:14:34",
+      "skills": [
+        "Базовая подготовка"
+      ]
+    }
+  ],
+  "units": [
+    {
+      "id": "unit-001",
+      "name": "1-я пехота",
+      "headCount": 300,
+      "isDeployed": false,
+      "formationDate": "07/15/2020 10:00:00 AM",
+      "operations": [
+        "Операция Альфа",
+        "Операция Браво"
+      ]
+    },
+    {
+      "id": "ff20d597-a0e6-4c9c-9e18-8e924a3597d5",
+      "name": "Стандартное подразделение",
+      "headCount": 100,
+      "isDeployed": false,
+      "formationDate": "30.04.2025, 10:15:08",
+      "operations": []
+    },
+    {
+      "id": "6a57ddf0-2938-4d9c-a5c5-157aa5a66df3",
+      "name": "Стандартное подразделение",
+      "headCount": 100,
+      "isDeployed": false,
+      "formationDate": "30.04.2025, 10:15:40",
+      "operations": []
+    },
+    {
+      "id": "8296f685-c12e-499a-a5da-31c25d001ae0",
+      "name": "2-я бронетанковая дивизия",
+      "headCount": 200,
+      "isDeployed": false,
+      "formationDate": "30.04.2025, 10:16:20",
+      "operations": [
+        "Операция Гром"
+      ]
+    },
+    {
+      "id": "8453a507-e540-4229-b1a7-d0d80b10ad08",
+      "name": "Стандартное подразделение",
+      "headCount": 100,
+      "isDeployed": false,
+      "formationDate": "30.04.2025, 10:16:33",
+      "operations": []
+    }
+  ]
+}
